@@ -292,8 +292,8 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/stats-base-variancepn.svg
 [npm-url]: https://npmjs.org/package/@stdlib/stats-base-variancepn
 
-[test-image]: https://github.com/stdlib-js/stats-base-variancepn/actions/workflows/test.yml/badge.svg?branch=v0.0.9
-[test-url]: https://github.com/stdlib-js/stats-base-variancepn/actions/workflows/test.yml?query=branch:v0.0.9
+[test-image]: https://github.com/stdlib-js/stats-base-variancepn/actions/workflows/test.yml/badge.svg?branch=v0.0.10
+[test-url]: https://github.com/stdlib-js/stats-base-variancepn/actions/workflows/test.yml?query=branch:v0.0.10
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/stats-base-variancepn/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/stats-base-variancepn?branch=main
