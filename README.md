@@ -217,7 +217,7 @@ var v = variancepn.ndarray( N, 1, x, 2, 1 );
 
 -   If `N <= 0`, both functions return `NaN`.
 -   If `N - c` is less than or equal to `0` (where `c` corresponds to the provided degrees of freedom adjustment), both functions return `NaN`.
--   Depending on the environment, the typed versions ([`dvariancepn`][@stdlib/stats/strided/dvariancepn], [`svariancepn`][@stdlib/stats/base/svariancepn], etc.) are likely to be significantly more performant.
+-   Depending on the environment, the typed versions ([`dvariancepn`][@stdlib/stats/strided/dvariancepn], [`svariancepn`][@stdlib/stats/strided/svariancepn], etc.) are likely to be significantly more performant.
 
 </section>
 
@@ -360,7 +360,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
-[@stdlib/stats/base/svariancepn]: https://github.com/stdlib-js/stats-base-svariancepn
+[@stdlib/stats/strided/svariancepn]: https://github.com/stdlib-js/stats-strided-svariancepn
 
 [@neely:1966a]: https://doi.org/10.1145/365719.365958
 
