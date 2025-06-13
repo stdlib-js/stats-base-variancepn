@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-26)
+## Unreleased (2025-06-13)
+
+<section class="features">
+
+### Features
+
+-   [`d7cc7a5`](https://github.com/stdlib-js/stdlib/commit/d7cc7a5596002941c40d76c4852162e8a985bc82) - add support for accessor arrays and refactor `stats/base/variancepn` [(#5829)](https://github.com/stdlib-js/stdlib/pull/5829)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5689](https://github.com/stdlib-js/stdlib/issues/5689)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`d7cc7a5`](https://github.com/stdlib-js/stdlib/commit/d7cc7a5596002941c40d76c4852162e8a985bc82) - **feat:** add support for accessor arrays and refactor `stats/base/variancepn` [(#5829)](https://github.com/stdlib-js/stdlib/pull/5829) _(by Aryan Bhirud, Athan Reines, stdlib-bot, Gururaj Gurram)_
 -   [`fbce42c`](https://github.com/stdlib-js/stdlib/commit/fbce42c8ae4ce2a5517960942d70ce4eaef15c3e) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`4b639f0`](https://github.com/stdlib-js/stdlib/commit/4b639f0bfee0b847a562dca5dd9e79a5c5b090fe) - **refactor:** update paths _(by Aayush Khanna)_
 
@@ -25,9 +48,12 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Aryan Bhirud
+-   Athan Reines
+-   Gururaj Gurram
 
 </section>
 
